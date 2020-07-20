@@ -1,0 +1,21 @@
+$font-stack: -apple-system, BlinkMacSystemFont, Roboto, "Open Sans", "Helvetica Neue", sans-serif;
+
+@import "~bootstrap/scss/bootstrap";
+
+
+
+*{
+  background: green;
+}
+
+body {
+  font-family: $font-stack;
+  #logo {
+    width: 10rem;
+  }
+  .container {
+    img {
+      width: 20rem;
+    }
+  }
+}
