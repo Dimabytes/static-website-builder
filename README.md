@@ -7,24 +7,24 @@
 * ### Install
 
 ```
-yarn
+npm install
 ```
 
 * ### Start
 
 ```
-yarn start
+npm run start
 ```
 
 * ### Build
 
 ```
-yarn build
+npm run build
 ```
 
 
 * ### Watch mode
 
 ```
-yarn build-dev
+npm run build-dev
 ```
